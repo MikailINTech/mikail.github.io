@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Machine Learning frameworks 🤖
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: PyTorch
+  logo: "/images/sections/skills/pytorch.svg"
+  summary: "Able to build complexe architectures in PyTorch. It is my favorite framework."
+  url: "https://pytorch.org/"
+
+- name: TensorFlow
+  logo: "/images/sections/skills/tf.svg"
+  summary: "Able to build complexe architectures in TensorFlow. It has been my main framework during my last internship."
+  url: "https://www.tensorflow.org/"
+
+- name: Keras
+  logo: "/images/sections/skills/keras.png"
+  summary: "Able to build and train simpler Deep Learning models using Keras."
+  url: "https://keras.io/"
+
+- name: Numpy
+  logo: "/images/sections/skills/numpy.png"
+  summary: "Able to use NumPy for scientific computations."
+  url: "https://numpy.org/"
+
+- name: Scikit learn
+  logo: "/images/sections/skills/sklearn.svg"
+  summary: "Able to perform all kind of basic ML tasks with Scikit learn such as classification, regression, clustering, dimensionality reduction, pre-processing..."
+  url: "https://scikit-learn.org/"
+
+- name: Seaborn
+  logo: "/images/sections/skills/seaborn.svg"
+  summary: "Able to provide useful data visualization with seaborn."
+  url: "https://seaborn.pydata.org/"
+
+- name: Pandas
+  logo: "/images/sections/skills/pandas.svg"
+  summary: "Able to load, manipulate and analyse databases with pandas."
+  url: "https://pandas.pydata.org/"
+
+- name: XGBoost
+  logo: "/images/sections/skills/xgboost.png"
+  summary: "Able to perform gradient boosting with XGBoost."
+  url: "https://xgboost.readthedocs.io/en/stable/"
+
+- name: Hugging Face
+  logo: "/images/sections/skills/huggingface.svg"
+  summary: "Hugging Face provides tons of pre-trained models and a lot of databases. Able to use theses pre-trained models and build more advanced pipelines with them."
+  url: "https://huggingface.co/"
+
+
+
+

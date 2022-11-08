@@ -1,0 +1,87 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+# - name: Ph.D in Quantum Cryptography
+#   icon: fa-microscope
+#   timeframe: 2016-2020
+#   institution:
+#     name: ABC University of Technology
+#     url: "#"
+#   grade: #(optional)
+#     scale: CGPA
+#     achieved: 3.6
+#     outOf: 4
+#   publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     url: "#"
+#   - title: Fusce eu augue ut odio porttitor pulvinar.
+#     url: "#"
+#   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#     url: "#"
+- name: M.Sc. in Artificial Intelligence, Systems and Data 
+  icon: fa-graduation-cap
+  timeframe: October 2021 - October 2022
+  institution:
+    name: Université PSL - Paris Dauphine / Mines ParisTech / École normale supérieure
+    url: "https://www.lamsade.dauphine.fr/wp/iasd/"
+  # grade: #(optional)
+  # #   scale: CGPA
+  # #   achieved: 3.5
+  # #   outOf: 4
+  #    enable: false
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Advanced databases
+    - name: Machine learning fundamentals
+    - name: Optimization for machine learning
+    - name: Data science project
+    - name: Deep learning
+    - name: Knowledge representation, planning, and reasoning
+    - name: Deep learning for image analysis
+    - name: Deep reinforcement learning and applications
+    - name: Incremental learning, game theory, and applications
+    - name: Monte-Carlo search and games
+    - name: Natural language processing (NLP)
+    - name: Point clouds and 3D modeling
+
+- name: M.Eng. in Applied Mathematics and Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2018-2021
+  institution:
+    name: Télécom SudParis
+    url: "https://www.telecom-sudparis.eu/formation/modelisations-statistiques-et-applications/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Parametric statistics and extreme values
+    - name: Stochastic processes
+    - name: Statistical learning and high-dimensional biological data
+    - name: Markov models in signal and image
+    - name: Risk management and financial regulation
+    - name: Statistical processing of high-dimensional data
+    - name: Statistical methods for learning and tracking
+    - name: Economic modeling
+    - name: Applied statistics 
+    - name: Learning, automatic classification, data mining 
+
+  extracurricularActivities: #(optional)
+  - Member of the robotics club, participated to the "Coupe de France de robotique" in 2019.
+  - Private teacher 
+
+- name: "'Classes Préparatoires aux Grandes Ecoles' (CPGE) MPSI - MP"
+  icon: fa-university
+  timeframe: 2016-2018
+  institution:
+    name: Lycée Parc des Loges

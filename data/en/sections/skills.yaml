@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Main skills 👨🏻‍💻
   id: skills
   enable: true
   weight: 2
@@ -11,7 +11,47 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: git
+- name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Able to clone, create and manage source code in autonomy and collaboration. I mostly use Github but I have experience using Gitlab."
   url: "https://github.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.svg"
+  summary: "My main programmation language. Developed many projects in Python since 2018."
+  url: "https://www.python.org/"
+
+- name: Matlab
+  logo: /images/sections/skills/matlab.png
+  summary: "Able to build complex code for professional purpose. It has been my main programming language for my 6 month internship at Safran Electronics & Defense."
+  url: "https://www.mathworks.com/"
+
+- name: Linux
+  logo: "/images/sections/skills/linux-original.svg"
+  summary: "I use linux as a second operating system in my daily life. It has been my main operating system during my studies and my last internship."
+  url: "https://www.linux.org/"
+
+- name: R programming language
+  logo: /images/sections/skills/r.svg
+  summary: "Performed a diversity of data analysis lab works during my studies such as Dimensionality reduction, linear regression and time series analysis."
+  url: "https://www.r-project.org/"
+
+- name: Latex
+  logo: /images/sections/skills/latex.svg
+  summary: "Able to write several types of document in Latex including article and beamers."
+  url: "https://fr.overleaf.com/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Able to deploy an environment in a container. Used Docker during my last internship."
+  url: "https://www.docker.com/"
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Able to query and operate database systems."
+  url: "https://sql.sh/"
+
+- name: Google Cloud Computing
+  logo: /images/sections/skills/gcp.svg
+  summary: "Able to use GCP ressources to train a model. I used GCP to train a Transformer model on Point Clouds."
+  url: "https://cloud.google.com/"

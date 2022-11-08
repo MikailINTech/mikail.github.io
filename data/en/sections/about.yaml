@@ -8,33 +8,38 @@ section:
   template: sections/about.html
 
 # your designation
-designation: AI passionate
-
-# your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+designation: About me
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate AI graduate with 1 year of working experience. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I recently graduated from PSL University’s AI Master of Science. Before this experience, I spent three years at Télécom SudParis where I specialized in Data and Statistics. During my last years, my courses ranged from basic software skills to advanced deep learning theory and application. You can check some of the projects I developed on my Github. 
+
+I did two 6 months internships at Safran Electronics & Defense and Inria Saclay. During the first one, I had to dive deep into statistical algorithms such as Kalman Filters and Probability Hypothesis Density (PHD) Filters. Despite the extent of what I have learned, I felt that I wanted to specialize in Machine and Deep learning-related fields. For my last internship, I worked on a meaningful project while studying and building state-of-the-art Deep learning models such as cGANs. 
+
+Now that I am fresh graduate, I dedicate my time to continue learning by participating in Kaggle competitions or trying to contribute to open-source.
+
+If you think that we could work together in a dynamic team or collaborate on an innovative project, feel free to reach me."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "duzenlimikail@gmail.com"
+
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/MikailINTech"
+  url: "https://www.github.com/MikailINTech"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mikailduzenli/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/MikailDzl"
+
+
+

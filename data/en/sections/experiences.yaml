@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Experiences
+  name: Professional experiences 💼
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,32 +11,34 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Inria Saclay, OPIS team
+    url: "https://www.inria.fr/fr/opis"
+    location: Gif-sur-Yvette, CentraleSupelec's campus, France
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The objective of the OPIS team is to design advanced optimization methods for the analysis and processing of large-scale and complex data. My mission was to help a big tech company overcome their data limitations.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: AI Research Engineer for bio-medical images
+    start: 01 April 2022
+    end: 30 September 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - "Studied state-of-the-art Deep Learning approaches to generate realistic data from simulated data."
+    - "Proposed the appropriate solutions in constant collaboration with the partner company’s R&D team."
+    - "Developed the chosen models in Python (TensorFlow) including U-Nets, VAE and GAN."
+    - "Evaluation and analysis of results through meetings: the final result is a 10% boost in the performance of their"
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Safran Electronics & Defense
+    url: "https://www.safran-group.com/fr/societes/safran-electronics-defense"
+    location: Massy, France
+    overview: I have been integrated to the computer vision team of Safran Electronics & Defense to study the multi-object tracking problem.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Computer vision R&D Engineer
+    start: 15 February 2021
+    end: 15 August 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed Kalman filters and related algorithms in MATLAB.
+    - Simulated synthetic scenarios to assess the developed methods then analyzed results on field data (aviation and maritime).
+    - Improved the results of the method by 33% by proposing the appropriate modifications.
