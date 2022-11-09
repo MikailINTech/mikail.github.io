@@ -71,7 +71,7 @@ params:
     analytics:
       enabled: true
       goatCounter:
-        code: <mikail>
+        code: mikail
         
   newsletter:
       enable: false
