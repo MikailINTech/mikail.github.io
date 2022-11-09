@@ -50,7 +50,27 @@ params:
   # specify whether you can use emojis
   enableEmoji: true
 
-darkMode:
-  enable: true
-  provider: darkreader
-  default: dark
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 5
+
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: dark
+
+  # Configure various features of this theme
+  features:
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+    # Enable and configure blog posts
+    blog:
+      enable: true
+
+    analytics:
+      enabled: true
+      goatCounter:
+        code: <mikail>
+  newsletter:
+      enable: false
