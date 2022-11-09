@@ -72,5 +72,6 @@ params:
       enabled: true
       goatCounter:
         code: <mikail>
+        
   newsletter:
       enable: false
