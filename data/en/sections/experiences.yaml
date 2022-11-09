@@ -27,7 +27,7 @@ experiences:
     - "Studied state-of-the-art Deep Learning approaches to generate realistic data from simulated data."
     - "Proposed the appropriate solutions in constant collaboration with the partner company’s R&D team."
     - "Developed the chosen models in Python (TensorFlow) including U-Nets, VAE and GAN."
-    - "Evaluation and analysis of results through meetings: the final result is a 10% boost in the performance of their"
+    - "Evaluation and analysis of results through meetings: the final result is a 10% boost in the performance of their neural network on the test set."
 
 - company:
     name: Safran Electronics & Defense
