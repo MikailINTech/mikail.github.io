@@ -75,3 +75,4 @@ params:
         
   newsletter:
       enable: false
+      
