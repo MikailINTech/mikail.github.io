@@ -41,7 +41,8 @@
 }
 
 #gallery .img-type-1 {
-  height: 300px;
+  height: 200px;
+  width: 500px;
 }
 #gallery .img-type-2 {
   height: 146px;
