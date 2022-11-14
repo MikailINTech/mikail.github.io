@@ -165,6 +165,13 @@
   animation: circular-loading-100 1.8s linear forwards 1.8s;
 }
 
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 0px;
+}
+
 @keyframes circular-loading-50 {
   0% {
     transform: rotate(0deg);
