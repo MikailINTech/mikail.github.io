@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education 🎓
+  name: Éducation 🎓
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -27,11 +27,11 @@ degrees:
 #     url: "#"
 #   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #     url: "#"
-- name: M.Sc. in Artificial Intelligence, Systems and Data 
+- name: Master II en Intelligence Artificielle, Systèmes et Données
   icon: fa-graduation-cap
-  timeframe: October 2021 - October 2022
+  timeframe: Octobre 2021 - Octobre 2022
   institution:
-    name: PSL University - Paris Dauphine / Mines ParisTech / École normale supérieure
+    name: Université PSL - Paris Dauphine / Mines ParisTech / École normale supérieure
     url: "https://www.lamsade.dauphine.fr/wp/iasd/"
   # grade: #(optional)
   # #   scale: CGPA
@@ -42,22 +42,22 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Advanced databases
-    - name: Machine learning fundamentals
-    - name: Optimization for machine learning
-    - name: Data science project
+    - name: Bases de données avancées
+    - name: Introduction au Machine Learning
+    - name: Optimisation pour le Machine Learning
+    - name: Projets de Data science
     - name: Deep learning
-    - name: Knowledge representation, planning, and reasoning
-    - name: Deep learning for image analysis
-    - name: Deep reinforcement learning and applications
-    - name: Incremental learning, game theory, and applications
-    - name: Monte-Carlo search and games
+    - name: Représentation des connaissances
+    - name: Deep learning pour l'analyse d'images
+    - name: Deep reinforcement learning et applications
+    - name: Apprentissage incrémentale et théorie des jeux
+    - name: Recherche arborescente Monte-Carlo
     - name: Natural language processing (NLP)
-    - name: Point clouds and 3D modeling
+    - name: Nuages de points et modélisation 3D
 
-- name: M.Eng. in Applied Mathematics and Computer Science
+- name: Diplôme d'ingénieur en Modélisations Mathématiques et Applications
   icon: fa-graduation-cap
-  timeframe: September 2018 - September 2021
+  timeframe: Septembre 2018 - Septembre 2021
   institution:
     name: Télécom SudParis
     url: "https://www.telecom-sudparis.eu/formation/modelisations-statistiques-et-applications/"
@@ -65,20 +65,20 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Parametric statistics and extreme values
-    - name: Stochastic processes
-    - name: Statistical learning and high-dimensional biological data
-    - name: Markov models in signal and image
+    - name: Statistiques paramétriques et valeurs extrêmes
+    - name: Processus stochastiques
+    - name: Apprentissage statistique et données biologiques en grande dimension
+    - name: Modèles de Markov en signal et image
     - name: Risk management and financial regulation
-    - name: Statistical processing of high-dimensional data
-    - name: Statistical methods for learning and tracking
-    - name: Economic modeling
-    - name: Applied statistics 
-    - name: Learning, automatic classification, data mining 
+    - name: Traitement statistique des données en grande dimension
+    - name: Méthodes statistiques pour l’apprentissage et la poursuite
+    - name: Modélisation économique
+    - name: Statistiques appliquées
+    - name: Apprentissage, classification, data mining
 
   extracurricularActivities: #(optional)
-  - Member of the robotics club, participated to the "Coupe de France de robotique" in 2019.
-  - Private teacher 
+  - Membre du club de robotique et participation à la "Coupe de France de robotique" en 2019.
+  - Professeur particulier.
 
 - name: "'Classes Préparatoires aux Grandes Ecoles' (CPGE) MPSI - MP"
   icon: fa-university

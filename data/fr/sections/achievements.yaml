@@ -1,0 +1,15 @@
+# section information
+section:
+  name: Certifications 🏆
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: TOEIC 945
+  image: /images/sections/achievements/toeic.png
+  summary: TOEIC certification

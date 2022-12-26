@@ -10,6 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  fr:
+    languageName: French
+    weight: 2
 
 # Control TOC depth
 markup:
@@ -52,7 +55,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 2
 
   darkMode:
     enable: true

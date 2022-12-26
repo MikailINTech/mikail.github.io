@@ -1,0 +1,45 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: À propos de moi
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Je suis récemment diplômé du M2 IASD de l'Université PSL. Avant cette expérience, j'ai étudié trois ans à Télécom SudParis où je me suis spécialisée en modélisations mathématiques.
+Mes compétences vont des connaissances de base en programmation à la théorie et à l'application avancées du deep learning, et j'ai eu l'occasion de mettre ces compétences en pratique grâce à mes expériences en entreprise et en laboratoire. 
+Ma formation et mon expérience font que je suis équipé pour m'attaquer à des problèmatiques complexes orientées entreprise et recherche, et je suis toujours enthousiaste à l'idée d'apporter mes compétences et mes connaissances à de nouveaux défis.
+Que vous soyez à la recherche d'une solution axée sur les données pour résoudre un problème commercial ou d'une personne compétente ayant une solide expérience en IA, n'hésitez pas à me contacter, je pense que je répondrais parfaitement à vos besoins."
+
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "duzenlimikail@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/MikailINTech"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mikailduzenli/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/MikailDzl"
+
+available: true
+
+
+

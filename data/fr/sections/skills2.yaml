@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Compétences en Machine Learning 🤖
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: PyTorch
+  logo: "/images/sections/skills/pytorch.svg"
+  summary: "Capable de construire des architectures complexes en PyTorch. C'est ma librairie préféré."
+  url: "https://pytorch.org/"
+
+- name: TensorFlow
+  logo: "/images/sections/skills/tf.svg"
+  summary: "Capable de construire des architectures complexes en TensorFlow. Il a été mon principal cadre de travail lors de mon dernier stage."
+  url: "https://www.tensorflow.org/"
+
+- name: Keras
+  logo: "/images/sections/skills/keras.png"
+  summary: "Capacité à construire et à entraîner des modèles d'apprentissage profond plus simples à l'aide de Keras."
+  url: "https://keras.io/"
+
+- name: Numpy
+  logo: "/images/sections/skills/numpy.png"
+  summary: "Capable d'utiliser NumPy pour les calculs scientifiques."
+  url: "https://numpy.org/"
+
+- name: Scikit learn
+  logo: "/images/sections/skills/sklearn.svg"
+  summary: "Capable d'effectuer toutes sortes de tâches ML de base avec Scikit learn telles que la classification, la régression, le clustering, la réduction de la dimensionnalité, le prétraitement..."
+  url: "https://scikit-learn.org/"
+
+- name: Seaborn
+  logo: "/images/sections/skills/seaborn.svg"
+  summary: "Capable de fournir une visualisation utile des données avec seaborn."
+  url: "https://seaborn.pydata.org/"
+
+- name: Pandas
+  logo: "/images/sections/skills/pandas.svg"
+  summary: "Capable de charger, manipuler et analyser des bases de données avec pandas."
+  url: "https://pandas.pydata.org/"
+
+- name: XGBoost
+  logo: "/images/sections/skills/xgboost.png"
+  summary: "Capable d'effectuer un algorithme de gradient boosting avec XGBoost."
+  url: "https://xgboost.readthedocs.io/en/stable/"
+
+- name: Hugging Face
+  logo: "/images/sections/skills/huggingface.svg"
+  summary: "Hugging Face fournit des tonnes de modèles pré-entraînés et de nombreuses bases de données. Il est possible d'utiliser ces modèles pré-entraînés et de construire des pipelines plus avancés avec eux."
+  url: "https://huggingface.co/"
+
+
+
+

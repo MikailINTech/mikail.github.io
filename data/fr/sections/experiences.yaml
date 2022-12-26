@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Expériences professionelles 💼
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Inria Saclay, OPIS team
+    url: "https://www.inria.fr/fr/opis"
+    location: Gif-sur-Yvette, campus de CentraleSupelec, France
+    # company overview
+    overview: L'objectif de l'équipe OPIS est de concevoir des méthodes d'optimisation avancées pour l'analyse et le traitement de données complexes et à grande échelle. Ma mission consistait à aider une grande entreprise technologique à surmonter les limites de ses données.
+  positions:
+  - designation: Ingénieur de recherche en Intelligence Artificielle pour imagerie médicale.
+    start: 01 Avril 2022
+    end: 30 Septembre 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Étude de l'état de l'art des approches de Deep Learning pour générer des données réalistes à partir de données simulées."
+    - "Proposer les solutions appropriées en collaboration constante avec l'équipe R&D de l'entreprise partenaire."
+    - "Développement des modèles choisis en Python (TensorFlow), notamment U-Nets, VAE et GAN."
+    - "Évaluation et analyse des résultats à travers les réunions : le résultat final est une augmentation de 10 % des performances de leur réseau neuronal sur les données de test."
+
+- company:
+    name: Safran Electronics & Defense
+    url: "https://www.safran-group.com/fr/societes/safran-electronics-defense"
+    location: Massy, France
+    overview: J'ai été intégré à l'équipe de vision par ordinateur de Safran Electronics & Defense pour étudier le problème du suivi multi-objets.
+  positions:
+  - designation: Ingénieur R&D en imagerie par ordinateur
+    start: 15 Février 2021
+    end: 15 Aout 2021
+    responsibilities:
+    - Développement de filtres de Kalman et d'algorithmes connexes en MATLAB.
+    - Simulation de scénarios synthétiques pour évaluer les méthodes développées puis analyse des résultats sur des données de terrain (aviation et maritime).
+    - Amélioration de 33% des résultats de la méthode en proposant les modifications appropriées.

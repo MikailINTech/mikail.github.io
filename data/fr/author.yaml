@@ -3,13 +3,13 @@ name: "Mikail Duzenli"
 nickname: "Mikail"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi👋🏼, welcome to my portfolio, I am"
+greeting: "Bonjour👋🏼, bienvenue sur mon portfolio, je m'appelle"
 image: "images/author/me.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "duzenlimikail@gmail.com"
 # some summary about what you do
 summary:
-  - I am passionate by Artificial Intelligence,
-  - I love solving problems,
-  - I am open to new challenges.
+  - Je suis passionné d'intelligence artificielle,
+  - J'aime résoudre des problèmes,
+  - Je suis ouvert à de nouveaux challenges.

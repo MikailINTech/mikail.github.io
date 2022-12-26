@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Compétences principales 👨🏻‍💻
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Capable de cloner, créer et gérer du code source en autonomie et en collaboration. J'utilise principalement Github mais j'ai de l'expérience avec Gitlab."
+  url: "https://github.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.svg"
+  summary: "Mon principal langage de programmation. Développement de nombreux projets en Python depuis 2018.."
+  url: "https://www.python.org/"
+
+- name: Matlab
+  logo: /images/sections/skills/matlab.png
+  summary: "Capable de construire un code complexe à des fins professionnelles. Il a été mon principal langage de programmation pour mon stage de 6 mois chez Safran Electronics & Defense."
+  url: "https://www.mathworks.com/"
+
+- name: Linux
+  logo: "/images/sections/skills/linux-original.svg"
+  summary: "J'utilise linux comme système d'exploitation secondaire dans ma vie quotidienne. Il a été mon système d'exploitation principal pendant mes études et mon dernier stage."
+  url: "https://www.linux.org/"
+
+- name: R programming language
+  logo: /images/sections/skills/r.svg
+  summary: "J'ai effectué divers travaux de laboratoire d'analyse de données au cours de mes études, tels que la réduction de la dimensionnalité, la régression linéaire et l'analyse des séries chronologiques."
+  url: "https://www.r-project.org/"
+
+- name: Latex
+  logo: /images/sections/skills/latex.svg
+  summary: "Capable d'écrire plusieurs types de documents en Latex, y compris des articles et des beamers."
+  url: "https://fr.overleaf.com/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Capable de déployer un environnement dans un conteneur. J'ai utilisé Docker lors de mon dernier stage."
+  url: "https://www.docker.com/"
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Capable d'interroger et d'exploiter des systèmes de bases de données."
+  url: "https://sql.sh/"
+
+- name: Google Cloud Computing
+  logo: /images/sections/skills/gcp.svg
+  summary: "Capable d'utiliser les ressources de GCP pour entraîner un modèle. J'ai utilisé GCP pour entraîner un modèle Transformer sur des nuages de points."
+  url: "https://cloud.google.com/"
